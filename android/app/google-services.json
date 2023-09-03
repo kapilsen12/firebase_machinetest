@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392860132974",
+    "project_id": "fir-machine-51cdc",
+    "storage_bucket": "fir-machine-51cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392860132974:android:589184b36251459f48687f",
+        "android_client_info": {
+          "package_name": "com.example.fitebase_machinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392860132974-f32rvispkvmttp7pglqrilh6cetgsuv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoOhPudx4TjuZqA0aMnItG3sg991H3BwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392860132974-f32rvispkvmttp7pglqrilh6cetgsuv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
